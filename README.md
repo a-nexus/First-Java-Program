@@ -1,1 +1,1 @@
-# this is my first Java Program of printing hello world
+# THIS IS MY FIRST JAVA PROGRAM OF PRINTING HELLO WORLD
