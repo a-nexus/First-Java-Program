@@ -1,1 +1,1 @@
-# this is my first Java Program of printing hello world
+# THIS IS MY FIRST C PROGRAM AND ALSO I DIVIDING INTO A NEW BRANCH TO MY PREVIOUS BRANCH 
